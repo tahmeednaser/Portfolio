@@ -183,6 +183,15 @@ border-radius: 30px;
   transform: scale(1.05)
 }
 
+.box{
+  position:absolute;
+  top: 80%;
+  left: 0;
+  background-color: white;
+  height: 100px;
+  width: 100%;
+}
+
 .text {
   color: rgb(255, 255, 255);
   font-size: 4.166666666666667vw;
