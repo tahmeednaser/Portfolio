@@ -70,18 +70,18 @@ scroll-behavior: smooth;
 
 .center {
   position: absolute;
-  top: 27.77777777777778vw;
+  top: 17.77777777777778vw;
   width: 88.88888888888889vw;;
   text-align: center;
   margin-left: 6.944444444444445vw;
   font-size: 4.88888888888889vw;
   font-weight: 800;
-  color: #000000;
+  color: #ffffff;
 }
 
 img { 
   width: 100vw;
-  height: 57.56944444444444vw;
+  height: 40.97222222222222vw;
   
 }
 
@@ -92,8 +92,8 @@ img {
       font-weight: 400;
       font-size: 2.3777777777777777vw;
       text-align: center;
-      color: #000000;
-      top: 35.7vw;
+      color: #ffffff;
+      top: 25.7vw;
   }
 
 h2 {
@@ -188,7 +188,7 @@ border-radius: 30px;
   font-size: 4.166666666666667vw;
   font-weight: 900;
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -423,7 +423,7 @@ h3 span {
 
 .ALLPROJECTS {
 position: absolute;
-top:34.02777777777778vw;
+top: 17.02777777777778vw;
 width: 100vw;
 height: 41.666666666666664vw;
 }
@@ -465,7 +465,7 @@ height: auto;
 position: relative;
 top: 100vw;
 width: 100vw;
-background-color: rgb(220, 208, 208);
+background-color: #0176BC;
 padding-left: 34.72222222222222vw;
 color: white;
 font-size: 2.0833333333333335vw;
