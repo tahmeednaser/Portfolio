@@ -183,13 +183,15 @@ border-radius: 30px;
   transform: scale(1.05)
 }
 
-.box{
+.box1{
   position:absolute;
-  top: 80%;
+  top: 71%;
   left: 0;
   background-color: white;
-  height: 100px;
+  height: 120px;
   width: 100%;
+  padding-left: 4px;
+  color: #000000;
 }
 
 .text {
@@ -234,12 +236,23 @@ border-radius: 30px;
   transform: scale(1.05)
 }
 
+.box2{
+  position:absolute;
+  top: 71%;
+  left: 0;
+  background-color: white;
+  height: 120px;
+  width: 100%;
+  padding-left: 4px;
+  color: #000000;
+}
+
 .text4 {
   color: rgb(255, 255, 255);
   font-size: 4.166666666666667vw;
   font-weight: 900;
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -275,12 +288,23 @@ top: 104.86111111111111vw;
   transform: scale(1.05)
 }
 
+.box3{
+  position:absolute;
+  top: 71%;
+  left: 0;
+  background-color: white;
+  height: 120px;
+  width: 100%;
+  padding-left: 4px;
+  color: #000000;
+}
+
 .text5 {
   color: rgb(255, 255, 255);
   font-size: 4.166666666666667vw;
   font-weight: 900;
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -316,12 +340,23 @@ top: 104.86111111111111vw;
   transform: scale(1.05)
 }
 
+.box4{
+  position:absolute;
+  top: 71%;
+  left: 0;
+  background-color: white;
+  height: 120px;
+  width: 100%;
+  padding-left: 4px;
+  color: #000000;
+}
+
 .text6 {
   color: rgb(255, 255, 255);
   font-size: 4.166666666666667vw;
   font-weight: 900;
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -358,13 +393,24 @@ top: 104.86111111111111vw;
     opacity: 95%;
     transform: scale(1.05)
   }
+
+  .box5{
+    position:absolute;
+    top: 71%;
+    left: 0;
+    background-color: white;
+    height: 120px;
+    width: 100%;
+    padding-left: 4px;
+    color: #000000;
+  }
   
 .text7 {
     color: rgb(255, 255, 255);
     font-size: 4.166666666666667vw;
     font-weight: 900;
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -379,6 +425,7 @@ top: 104.86111111111111vw;
   left: 52.083333333333336vw;
   height: auto;
   top: 137.5vw;
+  text-decoration: none;
   }
   
 .overlay8 {
@@ -400,12 +447,24 @@ top: 104.86111111111111vw;
     transform: scale(1.05) 
   }
   
+  .box6{
+    position:absolute;
+    top: 71%;
+    left: 0;
+    background-color: white;
+    height: 120px;
+    width: 100%;
+    padding-left: 4px;
+    text-decoration: none;
+    color: #000000;
+  }
+
 .text8 {
     color: rgb(255, 255, 255);
     font-size: 4.166666666666667vw;
     font-weight: 900;
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
