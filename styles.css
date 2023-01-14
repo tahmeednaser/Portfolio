@@ -185,12 +185,12 @@ border-radius: 30px;
 
 .box1{
   position:absolute;
-  top: 71%;
+  top: 19.583333333333332vw;
   left: 0;
   background-color: white;
-  height: 120px;
-  width: 100%;
-  padding-left: 4px;
+  height: 8.333333333333334vw;
+  width: 42.11805555555556vw;
+  padding-left: 0.2777777777777778vw;
   color: #000000;
 }
 
@@ -238,12 +238,12 @@ border-radius: 30px;
 
 .box2{
   position:absolute;
-  top: 71%;
+  top: 19.583333333333332vw;
   left: 0;
   background-color: white;
-  height: 120px;
-  width: 100%;
-  padding-left: 4px;
+  height: 8.333333333333334vw;
+  width: 42.11805555555556vw;
+  padding-left: 0.2777777777777778vw;
   color: #000000;
 }
 
@@ -290,12 +290,12 @@ top: 104.86111111111111vw;
 
 .box3{
   position:absolute;
-  top: 71%;
+  top: 19.583333333333332vw;
   left: 0;
   background-color: white;
-  height: 120px;
-  width: 100%;
-  padding-left: 4px;
+  height: 8.333333333333334vw;
+  width: 42.11805555555556vw;
+  padding-left: 0.2777777777777778vw;
   color: #000000;
 }
 
@@ -342,12 +342,12 @@ top: 104.86111111111111vw;
 
 .box4{
   position:absolute;
-  top: 71%;
+  top: 19.583333333333332vw;
   left: 0;
   background-color: white;
-  height: 120px;
-  width: 100%;
-  padding-left: 4px;
+  height: 8.333333333333334vw;
+  width: 42.11805555555556vw;
+  padding-left: 0.2777777777777778vw;
   color: #000000;
 }
 
@@ -396,12 +396,12 @@ top: 104.86111111111111vw;
 
   .box5{
     position:absolute;
-    top: 71%;
+    top: 19.583333333333332vw;
     left: 0;
     background-color: white;
-    height: 120px;
-    width: 100%;
-    padding-left: 4px;
+    height: 8.333333333333334vw;
+    width: 42.11805555555556vw;
+    padding-left: 0.2777777777777778vw;
     color: #000000;
   }
   
@@ -449,12 +449,12 @@ top: 104.86111111111111vw;
   
   .box6{
     position:absolute;
-    top: 71%;
+    top: 19.583333333333332vw;
     left: 0;
     background-color: white;
-    height: 120px;
-    width: 100%;
-    padding-left: 4px;
+    height: 8.333333333333334vw;
+    width: 42.11805555555556vw;
+    padding-left: 0.2777777777777778vw;
     text-decoration: none;
     color: #000000;
   }
@@ -491,7 +491,7 @@ h3 span {
 
 .ALLPROJECTS {
 position: absolute;
-top: 17.02777777777778vw;
+top: 16.02777777777778vw;
 width: 100vw;
 height: 41.666666666666664vw;
 }
@@ -511,6 +511,7 @@ font-size: 1.0833333333333335vw;
 height: 32.638888888888886vw;
 width: 100vw;
 position: relative;
+padding-top: 10px;
 }
 
 .headshot {
@@ -563,4 +564,19 @@ height: 2.0833333333333335vw;
 .mail {
 width: 2.0833333333333335vw;
 height: 2.0833333333333335vw;
+}
+
+.resbutton {
+  width: 6.944444444444445vw;
+  height: 3.4722222222222223vw;
+  left: 52.083333333333336vw;
+  background-color: #ffffff;
+  position: absolute;
+  top: 24.305555555555557vw;
+  border: 0.1388888888888889vw solid #000000;
+  border-radius: 1.3888888888888888vw;
+  padding-left: 0.3472222222222222vw;
+  text-align: center;
+  color: #000000;
+  font-size: 1.1458333333333333vw;
 }
