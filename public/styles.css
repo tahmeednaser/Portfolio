@@ -105,6 +105,7 @@ h2 {
   margin-bottom: 3.4722222222222223vw;
   font-size: 2.0833333333333335vw;
   margin-left: 5.347222222222222vw;
+  top: 1.5277777777777777vw;
 } 
 
 h2 span { 
@@ -192,6 +193,7 @@ border-radius: 30px;
   width: 42.11805555555556vw;
   padding-left: 0.2777777777777778vw;
   color: #000000;
+  font-size: 1.2vw;
 }
 
 .text {
@@ -245,6 +247,7 @@ border-radius: 30px;
   width: 42.11805555555556vw;
   padding-left: 0.2777777777777778vw;
   color: #000000;
+  font-size: 1.2vw;
 }
 
 .text4 {
@@ -297,6 +300,7 @@ top: 104.86111111111111vw;
   width: 42.11805555555556vw;
   padding-left: 0.2777777777777778vw;
   color: #000000;
+  font-size: 1.2vw;
 }
 
 .text5 {
@@ -349,6 +353,7 @@ top: 104.86111111111111vw;
   width: 42.11805555555556vw;
   padding-left: 0.2777777777777778vw;
   color: #000000;
+  font-size: 1.2vw;
 }
 
 .text6 {
@@ -403,6 +408,7 @@ top: 104.86111111111111vw;
     width: 42.11805555555556vw;
     padding-left: 0.2777777777777778vw;
     color: #000000;
+    font-size: 1.2vw;
   }
   
 .text7 {
@@ -457,6 +463,7 @@ top: 104.86111111111111vw;
     padding-left: 0.2777777777777778vw;
     text-decoration: none;
     color: #000000;
+    font-size: 1.2vw;
   }
 
 .text8 {
@@ -549,7 +556,7 @@ position: relative;
 height: 5.902777777777778vw;
 width: 65.5vw;
 margin-left: 53.555555555555555vw;
-top: 95.63333333333333vw;
+top: 95.43333333333333vw;
 }
 .linkedin {
 width: 2.0833333333333335vw;
@@ -564,6 +571,7 @@ height: 2.0833333333333335vw;
 .mail {
 width: 2.0833333333333335vw;
 height: 2.0833333333333335vw;
+padding-left: 3px;
 }
 
 .resbutton {
