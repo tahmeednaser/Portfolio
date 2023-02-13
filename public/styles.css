@@ -593,5 +593,11 @@ padding-left: 3px;
 }
 
 .container2 {
-  width: 100vw
+  background-image: url("./Images/Rectangle.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  min-height: 580px;
 }
