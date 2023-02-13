@@ -1,5 +1,5 @@
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Mona-Sans', sans-serif;
   margin: 0vw;
   color: #000000;
   background: #ffffff;
@@ -548,9 +548,9 @@ background-size: cover;
 padding-left: 34.72222222222222vw;
 color: white;
 font-size: 2.0833333333333335vw;
-font-weight: 900;
+font-weight: 800;
 height: 5.902777777777778vw;
-padding-top: 0.06944444444444445vw;
+padding-top: 0.144444444444445vw;
 padding-bottom: 1.0416666666666667vw;
 }
 
@@ -559,7 +559,7 @@ position: relative;
 height: 5.902777777777778vw;
 width: 65.5vw;
 margin-left: 53.555555555555555vw;
-top: 95.43333333333333vw;
+top: 95.23333333333333vw;
 }
 .linkedin {
 width: 2.0833333333333335vw;
@@ -590,6 +590,10 @@ padding-left: 3px;
   text-align: center;
   color: #000000;
   font-size: 1.1458333333333333vw;
+}
+
+.resbutton :hover{
+  color: #989393;
 }
 
 .container2 {
