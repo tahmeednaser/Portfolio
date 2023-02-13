@@ -33,7 +33,7 @@ scroll-behavior: smooth;
 }
 
 .linkwrapper {
-  height: 2.3333333333333335vw;
+  max-height: 2.3333333333333335vw;
   border-bottom: 0.0833333333333334vw solid transparent;
   transition: border-bottom 0.5s;
 }
@@ -49,8 +49,7 @@ scroll-behavior: smooth;
 }
 
 .linkwrapper a:hover {
-  color: 1px solid rgb(0, 0, 0);
-  color: #000000;
+  color: 0.1px solid rgb(0, 0, 0);
 }
 
 .nav-wrapper > .left > div {
@@ -600,4 +599,10 @@ padding-left: 3px;
   background-size: cover;
   width: 100vw;
   min-height: 40.27777777777778vw;
+}
+
+
+.resbutton:hover {
+  border: 0.20833333333333334vw solid rgb(0, 0, 0);
+  font-weight: 600;
 }
