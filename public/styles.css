@@ -525,11 +525,11 @@ padding-top: 10px;
 width:24.305555555555557vw;
 height: 24.305555555555557vw;
 margin-left: 18.555555555555555vw;
-border: 0.3944444444444444vw solid #000000;
-border-radius: 0.6944444444444444vw;
+border: 0.3944444444444444vw solid transparent;
 padding: 0.6944444444444444vw;
 bottom: 0.6944444444444444vw;
-
+border-image: url("./Images/Rectangle.png") 30 stretch;
+border-radius: 1.6944444444444444vw;
 }
 footer {
 width: 65.5vw;
