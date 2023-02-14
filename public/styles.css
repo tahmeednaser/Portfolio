@@ -533,7 +533,7 @@ border-image: url("./Images/Rectangle.png") 30 stretch;
 footer {
 width: 65.5vw;
 position: relative;
-height: 100vw;
+height: auto;
 }
 
 .footer1 {
