@@ -533,7 +533,7 @@ border-image: url("./Images/Rectangle.png") 30 stretch;
 footer {
 width: 65.5vw;
 position: relative;
-height: auto;
+height: 100vw;
 }
 
 .footer1 {
@@ -555,7 +555,6 @@ padding-bottom: 1.0416666666666667vw;
 
 .icons {
 position: relative;
-height: 5.902777777777778vw;
 width: 65.5vw;
 margin-left: 53.555555555555555vw;
 top: 95.23333333333333vw;
